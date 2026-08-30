@@ -1,2 +1,4 @@
-# myni
-A .ini file parsing library written in the C language, with a few extra features included.
+# Testing branch
+Well, I guess we might as well use this branch to write tests for our parser in the future.
+
+`Tell we meet again.`
