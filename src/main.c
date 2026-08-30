@@ -12,5 +12,6 @@ typedef struct IniEntry {
 
 int main(void) {
     puts("Hello world! (Not using printf, because it's just a single string argument.");
+    puts("gorengo");
     return 0;
 }
